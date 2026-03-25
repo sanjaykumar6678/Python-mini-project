@@ -1,9 +1,5 @@
 # Python-mini-project
 
-# Python Mini Projects
-
-This repository contains 10 beginner-friendly Python projects.
-
 ## Projects Included
 
 1. Employee Management System
